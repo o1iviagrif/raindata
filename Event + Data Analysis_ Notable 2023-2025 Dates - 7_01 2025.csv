@@ -1,5 +1,4 @@
-,Atlantic,,Chem,,Golf,,VMH,,,,
-Timestamp (EST),rainRate (in/hr),1-min rain (in),rainRate (in/hr),1-min rain (in),rainRate (in/hr),1-min rain (in),rainRate (in/hr),1-min rain (in),Avg Rate b/w stations (in/hr),Avg Accumulation b/w stations (in),Total Average Accumulation 
+Timestamp (EST),Atlantic - rainRate (in/hr),1-min rain (in),Chem - rainRate (in/hr),1-min rain (in),Golf - rainRate (in/hr),1-min rain (in),VMH - rainRate (in/hr),1-min rain (in),Avg Rate b/w stations (in/hr),Avg Accumulation b/w stations (in),Total Average Accumulation 
 3:31:00 PM,0,0,0,0,0,0,0,0,0,0,
 3:32:00 PM,0,0,0,0,0.2,0.01,0,0.01,0.05,0.005,0.005
 3:33:00 PM,0,0,0,0.01,1.9,0.02,2.1,0.02,1,0.0125,0.0175
@@ -275,13 +274,13 @@ Timestamp (EST),rainRate (in/hr),1-min rain (in),rainRate (in/hr),1-min rain (in
 ,,,,,,,0.08,0,0.02,0,0.7675
 ,,,,,,,,,,,
 ,,,,,,,,,,,
-2025-07-01 15:35:01,Nyumburu (232) Mechanical Rm ,,,,,,,,,,
-2025-07-01 15:37:58,Bio-Psych (144) Boilers Pad ,,,,,,,,,,
-2025-07-01 16:20:12,Marie Mount (046) Lobby ,,,,,,,,,,
-2025-07-01 17:49:54,Taliaferro (043) Stairwell ,,,,,,,,,,
-2025-07-01 18:11:36,Miller Admin (077) Mechanical Rm ,,,,,,,,,,
-2025-07-01 19:03:03,Miller Admin (077) Mechanical Rm ,,,,,,,,,,
-2025-07-01 21:03:46,Miller Admin (077) Mechanical Rm ,,,,,,,,,,
+7/1/25 15:35,Nyumburu (232) Mechanical Rm ,,,,,,,,,,
+7/1/25 15:37,Bio-Psych (144) Boilers Pad ,,,,,,,,,,
+7/1/25 16:20,Marie Mount (046) Lobby ,,,,,,,,,,
+7/1/25 17:49,Taliaferro (043) Stairwell ,,,,,,,,,,
+7/1/25 18:11,Miller Admin (077) Mechanical Rm ,,,,,,,,,,
+7/1/25 19:03,Miller Admin (077) Mechanical Rm ,,,,,,,,,,
+7/1/25 21:03,Miller Admin (077) Mechanical Rm ,,,,,,,,,,
 ,,,,,,,,,,,
 07/01 Chronological,,,,,,,,,,,
 Building,Timestamp,RainRate Avg (in/hr),Accumulation (in),Total (in),,,,,,,
